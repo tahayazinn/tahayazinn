@@ -1,16 +1,24 @@
-## Hi there 👋
+# Merhaba, ben Taha Yasin Yiğit! 👋
 
-<!--
-**tahayazinn/tahayazinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter** ile mobil uygulamalar geliştiren, kullanıcı deneyimine ve temiz koda önem veren bir geliştiriciyim. 
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+- 📱 Şu sıralar Flutter ve Dart üzerine yoğunlaşıyorum.
+- 🔭 Üzerinde çalıştığım en son proje: [Namaz Vakti](https://github.com/tahayazinn/namaz_vakti_app)
+- 🌱 Yeni teknolojiler öğrenmeyi ve açık kaynak projelere katkı sağlamayı seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+- **Diller:** Dart, Kotlin, Swift
+- **Framework:** Flutter
+- **Araçlar:** Git, GitHub, VS Code, Xcode, Android Studio, Figma
+- **Veritabanı:** Shared Preferences, SQLite
+
+### 🌟 Öne Çıkan Projelerim
+#### [🕌 Namaz Vakti](https://github.com/tahayazinn/namaz_vakti_app)
+Diyanet uyumlu, GPS ve kıble pusulası özelliklerine sahip, tamamen yerel çalışan modern bir Flutter uygulaması.
+
+### 📫 Bana Ulaşın
+- 📧 E-posta: tytaha147@gmail.com
+
+---
+*“Kod, geleceği inşa etmenin en güzel yoludur.”*
